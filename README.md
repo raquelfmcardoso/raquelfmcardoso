@@ -1,7 +1,7 @@
 - hi i'm raquel
 - i'm interested in *art*, *design*, ***videogames***, *music* and *3d modelling*
-- i'm currently learning 3d modelling and **studying computer science**
-- i'm down to get better at my interests at any cost
+- i'm currently learning 3d modelling and **studying computer science and design**
+- rly want to get better at my interests
 - u can contact me on my twitter
 
 <!---

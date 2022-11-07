@@ -3,7 +3,7 @@
 </div>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=buefy&hide_border=true" alt="raquel's github stats" /> | |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=buefy&hide_border=true" alt="raquel's github stats" /> |
 | ------------- | ------------- |
 
 <!---

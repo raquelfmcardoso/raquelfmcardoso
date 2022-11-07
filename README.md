@@ -2,6 +2,10 @@
 <p align="center"><img width="80%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/welcome_card-01.png" /></p>
 </div>
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=material-palenight&hide_border=true" alt="raquel's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact&theme=material-palenight&hide_border=true" /> |
+| ------------- | ------------- |
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=material-palenight" alt="rahqueu" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact" alt="top languages" />

@@ -1,5 +1,5 @@
 <div>
-<p align="center"><img width="80%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/welcome_card-01.png" /></p>
+<p align="center"><img width="80%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/welcome_card.png" /></p>
 </div>
 
 

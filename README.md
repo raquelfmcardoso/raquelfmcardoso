@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/sakura.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/sakura.gif" width="400" height="500"/>
 <p align="center"><img width="100%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/assets/welcome_card.gif" /></p>
 </div>
 

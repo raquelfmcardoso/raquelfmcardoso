@@ -11,4 +11,4 @@
 ## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&redirect=true) <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/>
 
 
-## thanks for dropping by! :) <img align="right" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/> 
+## <p align="right">thanks for dropping by! :) <img src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/></p>

@@ -2,7 +2,7 @@
 <p align="center"><img width="100%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/welcome_card.png" /></p>
 </div>
 
-<img align="center" hight="490" width="500" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=buefy&hide_border=true" alt="raquel's github stats" /> <img align="right" hight="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" hight="490" width="500" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=buefy&hide_border=true" alt="raquel's github stats" /> <img align="right" hight="400" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact&theme=buefy&hide_border=true" />
 
 <!---
 |  |  |

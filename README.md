@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/master/welcome_card-01.png" /></p>
+<p align="center"><img width="80%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/welcome_card-01.png" /></p>
 
 hello i'm raquel
 - interested in *art*, *design*, ***videogames***, *music* and *3d modelling*

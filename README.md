@@ -1,13 +1,13 @@
+<div>
 <p align="center"><img width="80%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/welcome_card-01.png" /></p>
-
-hello i'm raquel
-- interested in *art*, *design*, ***videogames***, *music* and *3d modelling*
-- computer science student @ instituto superior técnico
-- currently **learning 3d modelling** and **studying design**
+</div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=material-palenight" alt="rahqueu" />
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact" alt="top languages" />
 
-
+<!---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact" alt="top languages" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +17,7 @@ hello i'm raquel
 
 
 
-<!---
+
 rahqueu/rahqueu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

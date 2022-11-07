@@ -8,7 +8,8 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=buefy&hide_border=true" alt="raquel's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-## <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> thanks for dropping by 
+## <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> thanks for dropping by <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/02mmW9OFeZjlTfmTlKphcY)
 
 
 <!---

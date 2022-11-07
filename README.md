@@ -8,11 +8,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahqueu&count_private=true&hide=issues&show_icons=true&theme=buefy&hide_border=true" alt="raquel's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&hide=angelscript&langs_count=4&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&redirect=true) <img src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/>
 
-## <img src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/><img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> currently playing on my spotify
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/02mmW9OFeZjlTfmTlKphcY?si=1427e6ae28d24dc9)
+## <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> currently playing on my spotify
 
 <!---
 

@@ -9,7 +9,7 @@
 | ------------- | ------------- |
 
 ## <img src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/><img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> my spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=compact&show_offline=false&background_color=)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!---

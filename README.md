@@ -10,6 +10,6 @@
 
 </br>
 
-## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&redirect=true) <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> <img align="right" width="200" hight="800" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/>
+## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&redirect=true) <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> <img align="right" width="100" hight="800" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/>
 
 

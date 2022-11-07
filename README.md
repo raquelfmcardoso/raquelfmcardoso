@@ -9,6 +9,8 @@ hello i'm raquel
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/02mmW9OFeZjlTfmTlKphcY)
+
 <!---
 rahqueu/rahqueu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -2,6 +2,11 @@
 <p align="center"><img width="100%" alt="hi! i'm raquel" src="https://github.com/rahqueu/rahqueu/blob/main/assets/welcome_card.gif" /></p>
 </div>
 
+<div id="badges">
+  <a href="[linkedin-URL](https://www.linkedin.com/in/raquelfmcardoso/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
+
 </br>
 
 

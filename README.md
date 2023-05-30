@@ -5,7 +5,7 @@
 
 <div>
 <p align="center"><img width="100%" alt="socials" src="https://github.com/rahqueu/rahqueu/blob/main/assets/socials-01.png" /></p>
-[<img align="left" alt="C" width="26px" src="(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" />](https://linkedin.com/in/raquelfmcardoso) [github]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raquelfmcardoso) 
 
 <div>
 <p align="center"><img width="100%" alt="tech i use" src="https://github.com/rahqueu/rahqueu/blob/main/assets/tech-01.png" /></p>

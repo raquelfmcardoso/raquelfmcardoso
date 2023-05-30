@@ -5,7 +5,7 @@
 
 <div>
   <p align="center"><img width="100%" alt="socials" src="https://github.com/rahqueu/rahqueu/blob/main/assets/socials-01.png" /></p>
-  <a align="center" href="https://www.linkedin.com/in/raquelfmcardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <code><img align="center" height = 40 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></code>
 </div>
 
 <p align="center">
@@ -34,12 +34,13 @@
   
 <p align="center">
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=rahqueu&theme=buefy&hide_border=true)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahqueu&theme=buefy&hide_border=true">
   </div>
 </p>
+
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <img src="[https://github-readme-stats.vercel.app/api?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)">
 </p>
 
 ---

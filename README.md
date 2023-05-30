@@ -49,9 +49,9 @@
   <img src="[https://github-readme-stats.vercel.app/api?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api/top-langs/?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)">
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=rahqueu&icon=7&color=5)](https://visitcount.itsvg.in)
-
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=rahqueu&icon=7&color=5)](https://visitcount.itsvg.in)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </br>

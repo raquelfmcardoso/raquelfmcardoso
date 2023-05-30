@@ -4,8 +4,12 @@
 </div>
 
 <div>
-  <p align="center"><img width="100%" alt="socials" src="https://github.com/rahqueu/rahqueu/blob/main/assets/socials-01.png" /></p>
-  <code><img align="center" height = 40 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></code>
+  <p align="center">
+    <div align="center">
+    <img width="100%" alt="socials" src="https://github.com/rahqueu/rahqueu/blob/main/assets/socials-01.png" />
+    <code><img align="center" height = 40 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></code>
+    </div>
+  </p>
 </div>
 
 <p align="center">

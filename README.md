@@ -12,6 +12,7 @@
   </p>
 </div>
 
+<div>
 <p align="center">
   <img width="100%" alt="tech i use" src="https://github.com/rahqueu/rahqueu/blob/main/assets/tech-01.png" />
 </p>
@@ -35,7 +36,8 @@
 
   </div>
 </p>
-  
+</div>
+
 <p align="center">
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahqueu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false">

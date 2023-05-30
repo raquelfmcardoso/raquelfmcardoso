@@ -5,7 +5,7 @@
 
 <div>
 <p align="center"><img width="100%" alt="socials" src="https://github.com/rahqueu/rahqueu/blob/main/assets/socials-01.png" /></p>
-<a href="https://www.linkedin.com/in/raquelfmcardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a align="center" href="https://www.linkedin.com/in/raquelfmcardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <div>
 <p align="center"><img width="100%" alt="tech i use" src="https://github.com/rahqueu/rahqueu/blob/main/assets/tech-01.png" /></p>

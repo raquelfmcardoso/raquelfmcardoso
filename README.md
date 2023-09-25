@@ -5,10 +5,10 @@
   ```console
   Raquel Cardoso (she/her), 20 years old.
   First year master's degree student in Computer Science and Engineering @ Instituto Superior Técnico - UL.
-  Focusing my studies in Artificial Intelligence and Cyber-Physical Systems with the prospect of working in acessibility.
+  Focusing my studies in Artificial Intelligence and Cyber-Physical Systems with the prospect of working in accessibility.
   I'm also part of SINFO - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
   
-  Acessibility should be a everlasting requirement on our society.
+  Accessibility should be a everlasting requirement on our society.
   ```  
   </div>  
 </p>

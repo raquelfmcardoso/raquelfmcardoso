@@ -18,7 +18,7 @@
     
   ## Programming Languages
    <a href="https://skillicons.dev">
-        <img src="https://skills.thijs.gg/icons?i=py,java,cpp,c,cs,js,r,ts,md" />
+        <img src="https://skills.thijs.gg/icons?i=py,java,cpp,c,cs,html,css,js,r,ts,md,threejs,flutter,dart" />
     </a>
   </div>
 </p>
@@ -28,7 +28,7 @@
     
   ## Tech && Tools
    <a href="https://skillicons.dev">
-        <img src="https://skills.thijs.gg/icons?i=ps,ae,ai,premiere,figma,unity,linux,bash,postgresql,github,gitlab,latex" />
+        <img src="https://skills.thijs.gg/icons?i=ps,ae,ai,premiere,figma,blender,unity,linux,bash,postgresql,git,github,gitlab,latex" />
     </a>
   </div>
 </p>

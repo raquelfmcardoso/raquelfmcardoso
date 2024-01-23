@@ -7,6 +7,9 @@
 - Check out my [website and portfolio][website]!
 - Check out my [CV][cv]!
 
+</br>
+</br>
+
 <p align="center">
   <div align="center">
 
@@ -16,6 +19,8 @@
   </div>  
 </p>
 
+</br>
+</br>
 
 <p align="center">
   <div align="center">

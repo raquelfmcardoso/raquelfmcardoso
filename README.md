@@ -1,18 +1,19 @@
+# Welcome to my profile!
+
+- Raquel Cardoso (she/her), 20 years old.
+- First year master's degree student in Computer Science and Engineering @ Instituto Superior Técnico - UL.
+- Focusing my studies in Artificial Intelligence and Cyber-Physical Systems with the prospect of working in accessibility.
+- I'm also part of SINFO - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
+- Check out my [website and portfolio][website]!
+- Check out my [CV][cv]!
+
 <p align="center">
   <div align="center">
-
-  # Welcome to my profile!
-  ```console
-  Raquel Cardoso (she/her), 20 years old.
-  First year master's degree student in Computer Science and Engineering @ Instituto Superior Técnico - UL.
-  Focusing my studies in Artificial Intelligence and Cyber-Physical Systems with the prospect of working in accessibility.
-  I'm also part of SINFO - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
-  
-  Accessibility should be a everlasting requirement on our society.
-  ```  
+    ```console
+    Accessibility should be a everlasting requirement on our society.
+    ```
   </div>  
 </p>
-
 <p align="center">
   <div align="center">
     
@@ -62,4 +63,5 @@
 
 ## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&cover_image=true&theme=natemoo-re&show_offline=false&background_color=&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=evxrdeen&redirect=true) <img height="40" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/kyubey.gif"/> <img align="right" width="105" hight="800" src="https://raw.githubusercontent.com/rahqueu/rahqueu/main/assets/yae.gif"/>
 
-
+[website]: https://raquelfmcardoso.github.io/
+[cv]: https://raquelfmcardoso.github.io/uploads/resume.pdf

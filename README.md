@@ -9,9 +9,10 @@
 
 <p align="center">
   <div align="center">
-  ```console
-  Accessibility should be a everlasting requirement on our society.
-  ```
+
+  ```console  
+  Acessibility should be a everlasting requirement on our society.
+  ```  
   </div>  
 </p>
 

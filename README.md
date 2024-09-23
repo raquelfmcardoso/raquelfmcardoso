@@ -33,19 +33,25 @@
 
 
 <p align="center">
-
+  <div align="center">
+    
   ## Tech && Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ae,ai,premiere,figma,blender,unity,linux,bash,postgresql,git,github,gitlab,latex&perline=7" />
   </a>
+  
+  </div>
 </p>
 
 <p align="center">
-
+  <div align="center">
+    
   ## Socials
   <a href="https://www.linkedin.com/in/raquelfmcardoso/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  </div>
 </p>
 
 </br>

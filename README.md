@@ -21,11 +21,14 @@
 </br>
 
 <p align="center">
-
+  <div align="center">
+    
   ## Programming Languages
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,html,css,js,r,ts,md,threejs,flutter,dart&perline=7" />
   </a>
+
+  </div>  
 </p>
 
 

@@ -74,5 +74,5 @@
 
 [website]: https://raquelfmcardoso.github.io/
 [cv]: https://raquelfmcardoso.github.io/uploads/resume.pdf
-[loka]: https://x.com/lokahq
+[loka]: https://www.loka.com/
 [sinfo]: https://sinfo.org/

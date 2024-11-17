@@ -2,10 +2,9 @@
 
 - Raquel Cardoso (she/her), 21 years old.
 - Master's degree finalist on Computer Science and Engineering @ Instituto Superior Técnico - UL.
-- Focusing my studies in Artificial Intelligence and Cyber-Physical Systems with the prospect of working in AI for good and accessibility.
-- I'm also part of SINFO - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
-- Check out my [website and portfolio][website]!
-- Check out my [CV][cv]!
+- Machine Learning Intern at [Loka, Inc][loka], working with Natural Language Processing.
+- I'm also part of [SINFO][sinfo] - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
+- Check out my [website, portfolio][website] and [CV][cv]!
 
 </br>
 
@@ -75,3 +74,5 @@
 
 [website]: https://raquelfmcardoso.github.io/
 [cv]: https://raquelfmcardoso.github.io/uploads/resume.pdf
+[loka]: https://x.com/lokahq
+[sinfo]: https://sinfo.org/

@@ -2,7 +2,7 @@
 
 - Raquel Cardoso (she/her), 21 years old.
 - Master's degree finalist on Computer Science and Engineering @ Instituto Superior Técnico - UL.
-- Machine Learning Intern at [Loka, Inc][loka], working with Natural Language Processing.
+- Machine Learning Intern at [Loka][loka], working with Natural Language Processing.
 - I'm also part of [SINFO][sinfo] - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
 - Check out my [website, portfolio][website] and [CV][cv]!
 

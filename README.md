@@ -3,7 +3,6 @@
 - Raquel Cardoso (she/her), 22 years old.
 - Master's degree finalist on Computer Science and Engineering @ Instituto Superior Técnico - UL.
 - Junior ML Engineer at [Loka][loka], working with Natural Language Processing.
-- I'm also part of [SINFO][sinfo] - the biggest free tech conference in Portugal - as Multimedia's Team Leader.
 - Check out my [website, portfolio][website] and [CV][cv]!
 
 </br>
@@ -11,7 +10,7 @@
 <p align="center">
   <div align="center">
 
-  ```console  
+  ```console
   Acessibility should be a everlasting requirement on our society.
   ```  
   </div>  
@@ -75,4 +74,3 @@
 [website]: https://raquelfmcardoso.github.io/
 [cv]: https://raquelfmcardoso.github.io/uploads/resume.pdf
 [loka]: https://www.loka.com/
-[sinfo]: https://sinfo.org/
